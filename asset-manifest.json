@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/st-react-mic-frontend/static/js/main.35304a1d.js",
+    "main.js": "/st-react-mic-frontend/static/js/main.f26439ee.js",
     "index.html": "/st-react-mic-frontend/index.html",
-    "main.35304a1d.js.map": "/st-react-mic-frontend/static/js/main.35304a1d.js.map"
+    "main.f26439ee.js.map": "/st-react-mic-frontend/static/js/main.f26439ee.js.map"
   },
   "entrypoints": [
-    "static/js/main.35304a1d.js"
+    "static/js/main.f26439ee.js"
   ]
 }
